@@ -1,9 +1,10 @@
 {
-  "name": "@aicupa/plugin-template",
+  "name": "@aicupa/plugin-bg-music",
   "version": "1.0.0",
-  "description": "aicupa plugin template",
+  "description": "Aicupa Todolist Background Music Inject Plugin",
   "main": "./service",
-  "view": "./view",
+  "view": "",
+  "viewjs": "./inject.js",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"
