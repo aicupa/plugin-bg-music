@@ -1,6 +1,6 @@
 {
   "name": "@aicupa/plugin-bg-music",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Aicupa Todolist Background Music Inject Plugin",
   "main": "./service",
   "view": "",
